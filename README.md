@@ -1,4 +1,8 @@
-# hey, I'm swavezx 👋
+# hey, I'm swavezx 👋    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swavezx&color=d16ef4&abbreviated=true" alt="Profile Views"/>
+</p>
 
 Windows Kernel & Security Developer focused on low-level systems programming.
 Currently building projects around PE internals, hypervisors, and the Windows kernel.
