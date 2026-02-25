@@ -22,8 +22,9 @@ Currently building projects around PE internals, hypervisors, and the Windows ke
 | Project | Description | Status |
 |---|---|---|
 | AMD Hypervisor | Blue Pill hypervisor using AMD-V / SVM loaded via .sys | 🔨 In Progress |
-| PE Packer | x64 PE packer with mutation engine and stub injection | ✅ Done |
+| PE Packer | x64 PE packer with mutation engine and CFG stub injection | ✅ Done |
 | DSE Patcher | Driver Signature Enforcement bypass via vulnerable driver | ✅ Done |
+| Page Table Walker | Kernel driver that manually walks x64 page tables to translate virtual → physical addresses | ✅ Done |
 
 ---
 
@@ -39,4 +40,4 @@ Currently building projects around PE internals, hypervisors, and the Windows ke
 
 ## 📬 Reach me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/SwaveZx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SwaveZx)
