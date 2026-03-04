@@ -5,7 +5,7 @@
 </p>
 
 Windows Kernel & Security Developer focused on low-level systems programming.
-Currently building projects around PE internals, hypervisors, and the Windows kernel.
+Currently building projects around PE internals and the Windows kernel.
 
 ---
 
